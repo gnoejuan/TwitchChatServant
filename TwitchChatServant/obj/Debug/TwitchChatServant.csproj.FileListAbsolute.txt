@@ -1,0 +1,1 @@
+c:\users\nathan hale\documents\visual studio 2015\Projects\TwitchChatServant\TwitchChatServant\bin\Debug\TwitchChatServant.exe.config
